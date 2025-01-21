@@ -6,13 +6,13 @@ Instructions:
 
 Carefully analyze the job posting below to understand the key skills, qualifications, and responsibilities required for the role.
 
-[Insert job posting here]
+{JOB_POSTING} [Insert job posting here]
 </job posting>
 
 Thoroughly review my current resume/CV to understand my background, skills, and experiences.
 
-[Insert your CV here]
-</my CV>
+{MY_CV} [Insert your CV here]
+ </my CV>
 
 I will ask you to update one section of my resume at a time (e.g., professional summary, work experience, skills). When updating each section:
 
@@ -20,7 +20,7 @@ Tailor it to align with the job posting requirements.
 Ensure it complements and remains consistent with previously updated sections.
 Use the inner monologue section below to track what has been asked and provided so far:
 
-[The AI will use this space to track updates and maintain alignment between sections.]
+{INNER_MONOLOGUE} [The AI will use this space to track updates and maintain alignment between sections.]
 </inner_monologue>
 
 Provide clear, actionable suggestions for improving each section of my resume while maintaining a professional tone and format.
